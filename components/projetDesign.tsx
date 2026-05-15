@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation";
 
 const PROJECTS = [
   {
-    
+    id : "01",
     title: "Bar - tabac - presse",
     category: "Architecture d’intérieur",
     year: "2024",
@@ -15,7 +15,7 @@ const PROJECTS = [
       "/Vauzac.png",
   },
   {
-    
+    id : "02",
     title: "Pâtisserie - Chocolaterie",
     category: "Architecture d’intérieur",
     year: "2025",
@@ -25,7 +25,7 @@ const PROJECTS = [
       "/Paris-Pornic.png",
   },
   {
-    
+    id : "03",
     title: "Boulangerie - Viennoiserie",
     category: "Architecture d’intérieur",
     year: "2024",
@@ -35,7 +35,7 @@ const PROJECTS = [
       "/Boulangerie.png",
   },
   {
-    
+    id : "04",
     title: "Bar Ambiance - Club",
     category: "Architecture d’intérieur",
     year: "2025",
